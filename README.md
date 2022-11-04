@@ -1,0 +1,1 @@
+[Dokumentation](DiscordBot Dokumentation.pdf)
